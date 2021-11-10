@@ -16,7 +16,7 @@ public class homework {
 		long c=sc.nextLong();
 		System.out.print(c);
 		System.out.println("char ");
-		char c=sc.next().char@(0);
+		char c=sc.next().charAt(0);
 		
 		
 		
